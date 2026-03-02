@@ -34,7 +34,7 @@ En esta versión, la IP objetivo está configurada como **localhost (127.0.0.1)*
 	python port_scanner.py
 3. El programa escaneará automáticamente la IP 127.0.0.1 en el rango de puertos 1–200.
 
-📊 Ejemplo de salida
+## 📊 Ejemplo de salida
 Supongamos que tienes un servidor HTTP corriendo en el puerto 8080 y un servicio SSH en el puerto 22. La salida podría verse así:
 
 Escaneando 127.0.0.1 de puerto 1 a 200...
