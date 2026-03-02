@@ -52,7 +52,7 @@ Escaneando 127.0.0.1 de puerto 1 a 200...
 [+] Escaneo completado.
 Puertos abiertos encontrados: [22, 80]
 
-⚠️ Nota importante
+## ⚠️ Nota importante
 Este script está configurado para escanear solo localhost (127.0.0.1).
 
 No lo uses en sistemas externos sin autorización, ya que podría considerarse un ataque de red.
